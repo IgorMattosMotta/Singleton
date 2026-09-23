@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Maven wrapper
+!.mvn/wrapper/maven-wrapper.jar
